@@ -1,0 +1,20 @@
+
+
+/* CONTAINER */
+
+.my_container {
+    background-color: rgb(82, 82, 209);
+    padding: 2rem 0;
+    margin: 5rem 0;
+}
+.my_thead {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.my_trow {
+    background-color: rgb(7, 7, 92);
+    color: #ffff;
+    text-align: center;
+
+}
